@@ -1,0 +1,3 @@
+predictor,n,median_length,mean_plddt,lddt_ca,tm_score,rmsd
+afdb,149,218.0,94.052,0.949,0.973,0.932
+esmfold,181,208.0,88.221,0.92,0.953,1.435

@@ -1,6 +1,7 @@
-__pycache__/
-*.pyc
 .venv/
-.env
-.ipynb_checkpoints/
-data/raw/
+__pycache__/
+.pytest_cache/
+data/exp/
+data/afdb/
+data/esmfold/
+data/*.log
